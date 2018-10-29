@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node bin/worker-client",
     "build": "tsc"
   },
   "repository": {
